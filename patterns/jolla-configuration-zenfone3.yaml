@@ -1,0 +1,6 @@
+Description: Pattern with packages for zenfone3 configurations
+Name: jolla-configuration-zenfone3
+Requires:
+- patterns-sailfish-device-configuration-zenfone3
+
+Summary: Jolla Configuration zenfone3
